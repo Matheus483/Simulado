@@ -1,0 +1,23 @@
+.img{ 
+  width: 100px;
+  height: 25px;
+}
+
+body {
+   display: grid;
+   justify-content: center;
+}
+
+label {
+  background-color: lightgray;
+  border: 2px;
+  border-radius: 15%;
+  border-color: gray;
+}
+
+button {
+  background-color: grey;
+  border: 2px;
+  border-radius: 10%;
+  border-color: black;
+}
